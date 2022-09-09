@@ -13,4 +13,4 @@ U .xml fajlovima u projektu su dodati svi potrebni dependency-i.
 
 Radi demonstracije napravljen je izveštaj pomoću alata JasperSoft Studio.
 
-Da bi se pokrenula aplikacija potrebno je da skinuti foldere TeretanaJPA.zip i TeretanaWEB.zip i pokrenuti aplikaciju online na serveru(korišćen je server Apache Tomcat v9.0) sa http://localhost:8080/Gym (kao sto je i navedeno u application.properties. 
+Da bi se pokrenula aplikacija potrebno je da skinuti foldere TeretanaJPA.zip i TeretanaWEB.zip i pokrenuti aplikaciju online na serveru(korišćen je server Apache Tomcat v9.0) sa http://localhost:8080/Gym kao sto je i navedeno u application.properties. 
