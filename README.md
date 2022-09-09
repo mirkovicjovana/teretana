@@ -11,4 +11,4 @@ Takođe dijagram slučaja korišćenja koji je napravljen u alatu Bouml opisuje 
 Pored fajla teretanaSql.sql u kom se nalazi kod za importovanje baze podataka u MySQL, tu je i relacioni model šeme baze podataka.
 U .xml fajlovima u projektu su dodati svi potrebni dependency-i.
 
-Da bi se pokrenula aplikacija potrebno je da skinuti folder teretana.zip i pokrenuti aplikaciju online na serveru(korišćen je server Apache Tomcat v9.0).
+Da bi se pokrenula aplikacija potrebno je da skinuti foldere TeretanaJPA.zip i TeretanaWEB.zip i pokrenuti aplikaciju online na serveru(korišćen je server Apache Tomcat v9.0).
